@@ -1,0 +1,1 @@
+This file aims to execute i/o redirection scripts
